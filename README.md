@@ -15,7 +15,7 @@ This course is aimed at **software engineers** who want to understand the specif
 * How to assure quality of an AI-enabled system? How would *test automation* look like to test correctness of infrastructure or models?
 * How to assure *fairness and privacy* of AI-enabled systems?
 
-## Learning Outcomes
+## Learning Outcome
 
 After taking this course, among others, students should be able to
 * analyze tradeoffs for designing production systems with AI-components, analyzing various qualities beyond accuracy such as operation cost, latency, updateability, and explainability
